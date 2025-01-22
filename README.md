@@ -1,2 +1,2 @@
-# Python-Network-Management-Tools
-Helps create a simple Excel document for simplified network documentation.
+# Python Scripts
+A colection of Python scripts.
